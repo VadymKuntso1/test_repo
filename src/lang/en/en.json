@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome!",
+  "firstTitle" : "About your animation",
+  "firstDescription" : "Your animation is created by drawing lines along the sides of a square. By determining the points of intersection, we can obtain polygons.",
+  "secondTitle": "About my animation",
+  "secondDescription": "My animation is based on Delaunay triangulation, which was invented by Boris Delaunay in 1934.",
+  "thirdTitle": "Why?",
+  "thirdDescription": "Maybe it's more interesting that way\nMaybe I didn't notice right away..."
+}
